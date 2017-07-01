@@ -1,4 +1,4 @@
-My solutions for  __Bazy Danych i Systemy Informacyjne__. (Computer Science Winter Semester 2016/2017)
+My solution for Problem Set 5 __Technologie sieciowe__. (Computer Science Summer Semester 2016/2017)
 
 Task (in Polish):
 
